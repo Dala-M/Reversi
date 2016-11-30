@@ -1,5 +1,5 @@
 /* 
- * File:   Lab7Part1.c
+ * File:   Game.c
  * Author: munajedd
  *
  * Created on November 10, 2015, 1:50 PM
